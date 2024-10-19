@@ -7,6 +7,7 @@
 // @match        https://janitorai.com/*
 // @icon         https://ella.janitorai.com/hotlink-ok/logo.png
 // @grant        none
+// @license	 MIT
 // ==/UserScript==
 
 const main = () => {
